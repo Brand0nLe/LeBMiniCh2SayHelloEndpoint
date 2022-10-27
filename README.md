@@ -1,6 +1,6 @@
 # LeBMiniCh2SayHelloEndpoint
 Brandon Le
-10-27-22
+10/27/22
 Mini Challenge 2 - Say Hello Endpoint
 
 # Directions:
