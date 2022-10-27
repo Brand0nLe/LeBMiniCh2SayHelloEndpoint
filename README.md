@@ -12,9 +12,3 @@ Steps:
 
 # Peer Review: Jessie Lamzon
 Code is working well and runs without errors.  Good job!
-
-
-
-testing text
-test
-testtesttest
